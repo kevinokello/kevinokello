@@ -1,4 +1,4 @@
-[![Portfolio]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://instagram.fnbo2-1.fna.fbcdn.net/v/t51.2885-19/279892088_1039097113386108_1168681284889602618_n.jpg?_nc_ht=instagram.fnbo2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=y0OwxZS1nWYAX9UuU4y&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT88-VFhENySn9uVBr0ucpLkL6AbKE1BxJiTcIFwqYJ2kw&oe=629814CC&_nc_sid=7bff83))](https://onlinewebmentor.netlify.app)
+[![Portfolio]())](https://onlinewebmentor.netlify.app)
 <h1 align="center">Hi 👋, I'm Kevin Okello</h1>
 <h3 align="center">A passionate fullstack developer from Nairobi, Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif">
