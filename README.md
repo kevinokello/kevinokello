@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/riginalkevin" target="blank"><img src="https://img.shields.io/twitter/follow/riginalkevin?logo=twitter&style=for-the-badge" alt="riginalkevin" /></a> </p>
 
-- 🌱 I’m currently learning **React,Tailwindcss and ASP.net**
-
-- 👨‍💻 All of my projects are available at [https://onlinewebmentor.netlify.app/](https://onlinewebmentor.netlify.app/)
+- 👨‍💻 I’m currently learning **React,Tailwindcss and ASP.net**
 
 - 💬 Ask me anything about **PHP and LARAVEL**
 
