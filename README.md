@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Okello</h1>
 <h3 align="center">A passionate Fullstack Developer from Nairobi, Kenya</h3>
 - 🌱 I’m currently learning **	Tailwind css and ASP.net**
+
 - 💬 Ask me about **PHP and Laravel**
 
 <h3 align="left">Let's Connect:</h3>
