@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kevin Okello</h1>
 <h3 align="center">A passionate Fullstack Developer from Nairobi, Kenya</h3>
-- 🌱 Currently learning *Flutter and Tailwind css*
+- 🌱 Currently learning *MERN and Flutter*
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a rel="noreferrer"> 
@@ -19,11 +19,5 @@
 </a> 
   <a rel="noreferrer"> 
 <img src="flutter.png" alt="php" width="50" height="50"/> 
-</a> 
-  <a rel="noreferrer"> 
-<img src="rct.png" alt="php" width="50" height="50"/> 
-</a> 
-  <a rel="noreferrer"> 
-<img src="nxt.png" alt="php" width="50" height="50"/> 
 </a> 
 </p>
