@@ -6,6 +6,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a rel="noreferrer"> 
-<img src="php.jpg" alt="php" width="40" height="40"/> 
+<img src="hcj.png" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="laravel.png" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="php.jpg" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="jss.png" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="flutter.png" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="rct.png" alt="php" width="50" height="50"/> 
+</a> 
+  <a rel="noreferrer"> 
+<img src="nxt.png" alt="php" width="50" height="50"/> 
 </a> 
 </p>
