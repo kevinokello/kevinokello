@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kevin Okello</h1>
-<h3 align="center">A passionate Fullstack Developer from Nairobi, Kenya</h3>
+<h4 >A passionate Fullstack Developer from Nairobi, Kenya</h4>
 - 🌱 Currently learning *MERN and Flutter*
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
