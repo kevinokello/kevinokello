@@ -3,12 +3,7 @@
 <h2 align="center">Hello 👋, I'm Kevin Okello</h2>
 <h4 ><img src="29167041.png" alt="php" width="50" height="50"/> A passionate Fullstack Developer based in Nairobi, Kenya</h4>
 - 🌱 Currently learning |React Native|
-<img style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 50%;
-" src="cool.gif" alt="php" /> 
+<img src="cool.gif" alt="php" /> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a rel="noreferrer"> 
