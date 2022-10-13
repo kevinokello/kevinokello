@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi :) 👋, I'm Kevin Okello</h2>
-<h4 ><img src="29167041.png" alt="php" width="50" height="50"/>🌱 A passionate Fullstack Developer based in Nairobi, Kenya🎉</h4>
+<h4 ><img src="29167041.png" alt="php" width="50" height="50"/>🌱 A passionate Fullstack Developer based in Nairobi, Kenya</h4>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a rel="noreferrer"> 
