@@ -1,5 +1,5 @@
-<h4 align="left">Hi, I'm Kevin okello 👋</h4>
-<h4 align="left">🌱 Languages and Tools:</h4>
+<h4 align="left">Hi, I'm Kevin okello 👋. A passionate fullstack developer from Nairobi, Kenya</h4>
+<h4 align="left">🌱Shipping with:</h4>
 <p align="left"> 
 <a rel="noreferrer"> 
 <img src="hcj.png" alt="php" width="50" height="50"/> 
