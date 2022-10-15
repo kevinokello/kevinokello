@@ -1,6 +1,4 @@
-
-<h4 align="center">Hi :) 👋 there</h4>
-<h3 align="left">🌱 Languages and Tools:</h3>
+<h4 align="left">🌱 Languages and Tools:</h4>
 <p align="left"> 
 <a rel="noreferrer"> 
 <img src="hcj.png" alt="php" width="50" height="50"/> 
