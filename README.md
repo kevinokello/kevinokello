@@ -6,9 +6,5 @@
 
 [Email Me](mailto:kevdevcodes@gmail.com)
 </div>
-<div class="stats" align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=kevinokello&count_private=true&theme=algolia&border_radius=20)
-</div>
-<br>
-<br>
+
 
