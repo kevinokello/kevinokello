@@ -14,7 +14,9 @@ const kevin = {
           <br>
         frontEnd: {
             js: ["Vue(#skills to acquire)"],
+              <br>
             css: ["materialize", "tailwind", "bootstrap"],
+              <br>
             framework: ["NextJs"]
         },
           <br>
@@ -22,6 +24,7 @@ const kevin = {
         },
           <br>
     skills_to_acquire:["Firebase", "Socket.IO", "VUE.JS", "Typescript", "Next.js"],
+      <br>
     currentFocus: "learning something new each day",
  
 };
