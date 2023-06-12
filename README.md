@@ -3,19 +3,24 @@
 const kevin = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Laravel", "Wordpress", "VueJs", "Html/Css", "React Native"],
+    <br>
     askMeAbout: ["Full Stack Development", "Digital Marketing"],
+      <br>
     technologies: {
         backEnd: {
             code: ["Laravel", "MYSQL", "php"],
         },
+          <br>
         frontEnd: {
             js: ["Vue(#skills to acquire)"],
             css: ["materialize", "tailwind", "bootstrap"],
             framework: ["NextJs"]
         },
+          <br>
         devOps: ["AWS", "Docker🐳(#skills to acquire)", "Heroku"],
         databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
         },
+          <br>
     skills_to_acquire:["Firebase", "Socket.IO", "VUE.JS", "Typescript", "Next.js"],
     currentFocus: "learning something new each day",
  
