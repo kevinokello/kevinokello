@@ -13,9 +13,9 @@ const pronouns : = {
         },
           <br>
         frontEnd: {
-            js: ["Vue(#skills to acquire)"],
+            js: ["Vue"],
               <br>
-            css: ["materialize", "tailwind", "bootstrap"],
+            css: ["tailwindcss", "bootstrap"],
               <br>
             framework: ["NextJs"]
         },
