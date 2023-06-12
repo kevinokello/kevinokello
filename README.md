@@ -1,7 +1,7 @@
 <h4 align="left">Hi there, I'm Kevin 👋.</h4>
 
-const kevin = {
-    pronouns: "He" | "Him",
+const pronouns : = {
+    "He" | "Him",
       <br>
     code: ["Javascript", "Laravel", "Wordpress", "VueJs", "Html/Css", "React Native"],
     <br>
