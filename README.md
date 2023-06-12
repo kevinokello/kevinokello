@@ -30,8 +30,6 @@ const pronouns : = {
 
 <p>I'm passionate about bringing both the technical and visual aspects of digital products to life.
 </p>
-<p>Currently Learning Typescript and Wordpress
-</p>
 <br>
 <div align="center">
 
