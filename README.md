@@ -2,6 +2,7 @@
 
 const kevin = {
     pronouns: "He" | "Him",
+      <br>
     code: ["Javascript", "Laravel", "Wordpress", "VueJs", "Html/Css", "React Native"],
     <br>
     askMeAbout: ["Full Stack Development", "Digital Marketing"],
@@ -17,7 +18,6 @@ const kevin = {
             framework: ["NextJs"]
         },
           <br>
-        devOps: ["AWS", "Docker🐳(#skills to acquire)", "Heroku"],
         databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
         },
           <br>
