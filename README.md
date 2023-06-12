@@ -26,10 +26,9 @@ const pronouns : = {
     skills_to_acquire:["Firebase", "Socket.IO", "VUE.JS", "Typescript", "Next.js"],
       <br>
     currentFocus: "learning something new each day",
- 
 };
 
-<p>I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me.
+<p>I'm passionate about bringing both the technical and visual aspects of digital products to life.
 </p>
 <p>Currently Learning Typescript and Wordpress
 </p>
