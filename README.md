@@ -27,9 +27,6 @@ const pronouns : = {
       <br>
     currentFocus: "learning something new each day",
 };
-
-<p>I'm passionate about bringing both the technical and visual aspects of digital products to life.
-</p>
 <br>
 <div align="center">
 
