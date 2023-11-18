@@ -3,9 +3,9 @@
 const pronouns : = {
     "He" | "Him",
       <br>
-    code: ["Javascript", "Laravel", "Wordpress", "VueJs", "Html/Css", "React Native"],
+    code: ["Javascript", "Laravel", "Wordpress", "VueJs", "Html/Css", "React Native", "Flutter"],
     <br>
-    askMeAbout: ["Full Stack Development", "Digital Marketing"],
+    askMeAbout: ["Full Stack Development"],
       <br>
     technologies: {
         backEnd: {
@@ -17,13 +17,13 @@ const pronouns : = {
               <br>
             css: ["tailwindcss", "bootstrap"],
               <br>
-            framework: ["NextJs"]
+            framework: ["Laravel, Flutter"]
         },
           <br>
-        databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
+        databases: ["MySql", "firebase(#skills to acquire)"],
         },
           <br>
-    skills_to_acquire:["Firebase", "Socket.IO", "VUE.JS", "Typescript", "Next.js"],
+    skills_to_acquire:["Firebase", "Flutter", "VUE.JS", "React Native"],
       <br>
     currentFocus: "learning something new each day",
 };
